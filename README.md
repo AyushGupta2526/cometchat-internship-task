@@ -1,3 +1,29 @@
+# CometChat Internship Task – React UI Kit Project
+
+This repository contains my completed CometChat Internship Task:
+- UI Kit Builder setup
+- React UI Kit export & implementation
+- Testing and screenshots
+- Issues & Recommendations documentation
+
+## 📸 Screenshots
+### Dashboard Overview  
+![Dashboard Overview](./screenshots/dashboard.png)
+
+### UI Kit Builder  
+![UI Kit Builder](./screenshots/ui-builder.png)
+
+### Export Code Menu  
+![Export Code Menu](./screenshots/export-menu.png)
+
+### Login Screen  
+![Login Screen](./screenshots/login.png)
+
+### Chat Screen  
+![Chat Screen](./screenshots/chat.png)
+
+
+
 <p align="center">
   <img alt="CometChat" src="https://assets.cometchat.io/website/images/logos/banner.png">
 </p>
